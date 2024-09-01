@@ -106,7 +106,7 @@
 		<dependency>
 			<groupId>com.nexttrucking</groupId>
 			<artifactId>feature-flags</artifactId>
-			<version>1.0.0.22</version>
+			<version>1.0.0.31</version>
 		</dependency>
 	</dependencies>
 
